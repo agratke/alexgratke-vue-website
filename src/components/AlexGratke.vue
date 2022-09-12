@@ -8,10 +8,10 @@ defineProps({
 </script>
 
 <template>
-
+  <img >
   <h3>{{msg}}</h3>
 
-  <p>asdfasdf</p>
+  <p></p>
 </template>
 
 <style scoped>
